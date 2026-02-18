@@ -8,8 +8,4 @@ Este proyecto consiste en el desarrollo de un videojuego como proyecto final. El
 ## Motivación
 La motivación de este proyecto es aplicar los conocimientos aprendidos durante el curso en un proyecto práctico y creativo, desarrollando un juego que sea funcional, entretenido y que permita practicar lógica de programación y diseño.
 
-## Tech Stack (Opcional)
-- Lenguaje: (Ejemplo: Java / Python / JavaScript)
-- Herramientas: GitHub
-- Plataforma: (Ejemplo: PC / Web)
 
